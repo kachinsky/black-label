@@ -1,0 +1,742 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width">
+	<title>black-label-template | product</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+	<link rel="stylesheet" href="css/all.css" media="all" />
+</head>
+<body>
+	<header id="header" class="wrapper">
+		<div class="container">
+			<div class="header-wrap">
+				<div class="logo-wrap">
+					<strong class="logo">
+						<a target="_blank" href="#">
+							<img src="images/logo.png" alt="image" />
+						</a>
+					</strong>
+				</div>
+				<nav id="nav">
+					<input type="checkbox" id="open-menu" class="open-check">
+					<div class="hold-toogle">
+						<label for="open-menu" class="toogle-menu">
+							Menü
+							<span class="t"></span>
+							<span class="c"></span>
+							<span class="b"></span>
+						</label>
+					</div>   
+					<div class="menu-holder">
+						<label for="open-menu" class="close-menu">Menü schließen</label>
+						<ul id="topnav">
+							<li>
+								<input type="checkbox" class="open-check" id="check01">
+								<a href="">Frauen</a>
+								<label for="check01">Frauen</label>
+								<ul class="children">
+									<li><label for="check01" class="back-label">Zurück</label></li>
+									<li><a href="#">Frauen1</a></li>
+									<li><a href="#">Frauen2</a></li>
+									<li><a href="#">Frauen3</a></li>
+									<li><a href="#">Frauen4</a></li>
+									<li><a href="#">Frauen5</a></li>
+									<li><a href="#">Frauen6</a></li>
+									<li><a href="#">Frauen7</a></li>
+									<li><a href="#">Frauen8</a></li>
+								</ul>
+							</li>
+							<li>
+								<input type="checkbox" class="open-check" id="check02">
+								<a href="">Kinder</a>
+								<label for="check02">Kinder</label>
+								<ul class="children">
+									<li><label for="check02" class="back-label">Zurück</label></li>
+									<li><a href="#">Kinder1</a></li>
+									<li><a href="#">Kinder2</a></li>
+									<li><a href="#">Kinder3</a></li>
+									<li><a href="#">Kinder4</a></li>
+									<li><a href="#">Kinder5</a></li>
+								</ul>
+							</li>
+							<li>
+								<input type="checkbox" class="open-check" id="check03">
+								<a href="">Männer</a>
+								<label for="check03">Männer</label>
+								<ul class="children">
+									<li><label for="check03" class="back-label">Zurück</label></li>
+									<li><a href="#">Männer1</a></li>
+									<li><a href="#">Männer2</a></li>
+									<li><a href="#">Männer3</a></li>
+									<li><a href="#">Männer4</a></li>
+									<li><a href="#">Männer5</a></li>
+									<li><a href="#">Männer6</a></li>
+									<li><a href="#">Männer7</a></li>
+								</ul>
+							</li>
+							<li><a href="#">Accessoirs</a></li>
+							<li><a href="#">Baby</a></li>
+							<li><a href="#">Sale %</a></li>
+						</ul>
+					</div>
+					<label for="open-menu" class="overlay"></label>
+				</nav>
+				<div id="search_box">
+        			<a href="#" class="search-link"></a>
+					<span class="text"></span>
+					<span class="search_btn"><i class="fa fa-search" aria-hidden="true"></i></span>
+				</div>
+			</div>
+		</div>
+	</header>
+	<section id="main" class="wrapper">
+		<div class="container">
+			<div class="title-box">
+				<div class="title-wrap">
+					<h1>NIKE FREE TR 5 BREATHE</h1>
+					<span class="title-hold">DAMEN TRAININGSSCHUH</span>
+				</div>
+				<ul class="title-list">
+					<li>Schneller Versand innerhalb Deutschlands</li>
+					<li>Markenqualität zu günstigen Preisen</li>
+					<li>1 Monat Widerrufsrecht</li>
+				</ul>
+			</div>
+			
+			
+		</div>
+		<div class="specification-box">
+			<div class="container">
+				<div class="col-hold">
+					<div class="col">
+						<h3>The lightest free yet</h3>
+						<p>The most barefoot-like and lightest of the Free family, the Nike Free RN Flyknit 2017 Men's Running Shoe is ideal for short runs. A sock-like upper hugs your feet yet feels barely there, while an innovative sole lets your foot flex and expand naturally. And, their packable design is easy to stash in a tote or backpack—so you pack in a few miles on the fly.</p>
+						<h3>Foot-Hugging Feel</h3>
+						<p>Flyknit material conforms to the shape of your foot for a snug fit. Combining breathability throughout the top, support in the toe and stretch on the outside of the foot, the Flyknit material helps keep your foot cool during your run.</p>
+						<h3>Natural Movement</h3>
+						<p>The Nike Free sole provides the feel of a minimalist running shoe. It moves with you, mimicking the movement of your foot by expanding and contracting with every landing and push-off, for a natural feel.</p>
+						<h3>Ultra-light Support</h3>
+						<p>Strong yet feather-light Flywire cables work with the laces to provide more support as you tighten them. A set of cables has been removed from the top lace to allow for a smoother, less distracting feel when you bend at the forefoot.</p>
+						<div class="img-hold"><img src="images/specification-img.jpg" alt="image" /></div>
+					</div>
+					<div class="col">
+						<h2>Besc<br />
+						hrei<br />
+						bung</h2>
+						<ul class="specification-list">
+							<li>Single seam on the inside of the heel for a smooth feel</li>							<li>Rounded heel is made to roll with the ground as you stride</li>							<li>Foam outsole with rubber the toe and heel for durability</li>							<li>Weight: 7.95 ounces/225.4 grams (men's size 10)</li>							<li>Offset: 8mm</li>							<li>Shown: Turbo Green/Armory Navy/Pure Platinum/Black</li>							<li>Style: 880843-009</li>
+						</ul>
+						<h3>Nike Free Origins</h3>
+						<p>After learning that Stanford athletes had been training barefoot, three of Nike's most innovative and creative employees set out to develop a shoe that felt natural and weightless, similar to bare feet. The team spent four years studying the biomechanics of runners' feet in motion. The results yielded a profound understanding of the foot's natural landing angle, pressure and toe position, allowing Nike designers to build an unconventional and flexible running shoe from the inside out.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="about-box">
+				<div class="col-hold">
+					<div class="col">
+						<ul>
+							<li>With the popularity of the Air Force 1 going strong, Nike recently set out to offer another new iteration of its iconic silhouette.</li>							<li>This time around the new “Desert Sand” colorway ditches the traditional leather construction, opting for a light khaki-textured canvas upper accented by red-orange hits found on the tongue, insoles, heel branding and vent holes. While simple leather Swooshes on the side panels and a contrasting sole unit round up the design of the shoe.</li>							<li>No official release notes just yet, but look for the Air Force 1 Low Canvas “Desert Sand” to hit select Nike Sportswear retailers sometime this spring.</li>							<li>Also, make sure to check out Nike’s new “Blue Orbit” colorway of the retro Vandal High Supreme.</li>
+						</ul>
+					</div>					<div class="col">
+						<div class="hold-img"><img src="images/nike.jpg" alt="image" /></div>
+						<strong class="about-title">NIKE BETTER WORLD</strong>
+						<p>Nike hat sich zum Ziel gesetzt, seine Produkte durch nachhaltige Innovationen zu verbessern. Erfahre, wie du mit Nike Reuse-a-Shoe die Umwelt schützen kannst und entdecke weitere innovative Projekte</p>
+					</div>
+				</div>
+			</div>
+			<div class="advantages-box">
+				<div class="title-hold">
+					<strong class="advantages-title">Warum bei uns kaufen</strong>
+				</div>
+				<ul>
+					<li>
+						<i class="fa fa-registered"></i>
+						<span class="advantages-text">Wir verkaufen nur hochwertige Artikel</span>
+					</li>					<li>
+						<i class="fa fa-reply-all"></i>
+						<span class="advantages-text">Bei Unzufriedenheit erstatten wir den vollen Preis</span>
+					</li>					<li>
+						<i class="fa fa-rocket"></i>
+						<span class="advantages-text">Artikel werden spätestens 24 Std. nach Erhalt der Bezahlung verschickt (nur Werktage)</span>
+					</li>					<li>
+						<i class="fa fa-truck"></i>
+						<span class="advantages-text">Alle Artikel sind auf Lager, fertig zum Versenden</span>
+					</li>					<li>
+						<strong class="number">30</strong>
+						<span class="advantages-text">30 Tage Widerrufsrecht</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="topseller-box">
+			<div class="container">
+				<div class="hold-tabs">
+					<input class="product-slider" checked="checked" name="product" id="tab-1" type="radio">
+					<input class="product-slider" name="product" id="tab-2" type="radio">
+					<input class="product-slider" name="product" id="tab-3" type="radio">
+					<input class="product-slider" name="product" id="tab-4" type="radio">
+					<input class="product-slider" name="product" id="tab-5" type="radio">
+					<div class="tab-menu">
+						<input class="product-slider" checked="checked" name="product-slider" id="tab-1" type="radio">
+						<div class="panel panel-default">		
+							<div class="topseller-wrap">
+								<div class="col">
+									<div class="box title">
+										<div class="text-center">											<div class="text-inner">												<div class="text-last">													<h2>Top<br />
+													SELLER</h2>												</div>											</div>										</div>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe</h3>
+											<div class="hold-img"><img src="images/topseller-img01.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col large">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe</h3>
+											<div class="hold-img"><img src="images/topseller-img-large.jpg" alt="image" /></div>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe</h3>
+											<div class="hold-img"><img src="images/topseller-img02.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe</h3>
+											<div class="hold-img"><img src="images/topseller-img03.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<input class="product-slider" name="product-slider" id="tab-2" type="radio">  
+						<div class="panel panel-default">		
+							<div class="topseller-wrap">
+								<div class="col">
+									<div class="box title">
+										<div class="text-center">
+											<div class="text-inner">
+												<div class="text-last">
+													<h2>Top<br />
+													SELLER<br />
+													2
+													</h2>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe2</h3>
+											<div class="hold-img"><img src="images/topseller-img01.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col large">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe2</h3>
+											<div class="hold-img"><img src="images/topseller-img-large.jpg" alt="image" /></div>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe2</h3>
+											<div class="hold-img"><img src="images/topseller-img02.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe2</h3>
+											<div class="hold-img"><img src="images/topseller-img03.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<input class="product-slider" name="product-slider" id="tab-3" type="radio">
+						<div class="panel panel-default">		
+							<div class="topseller-wrap">
+								<div class="col">
+									<div class="box title">
+										<div class="text-center">
+											<div class="text-inner">
+												<div class="text-last">
+													<h2>Top<br />
+													SELLER<br />
+													3
+													</h2>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe3</h3>
+											<div class="hold-img"><img src="images/topseller-img01.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col large">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe3</h3>
+											<div class="hold-img"><img src="images/topseller-img-large.jpg" alt="image" /></div>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe3</h3>
+											<div class="hold-img"><img src="images/topseller-img02.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe3</h3>
+											<div class="hold-img"><img src="images/topseller-img03.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<input class="product-slider" name="product-slider" id="tab-4" type="radio">
+						<div class="panel panel-default">		
+							<div class="topseller-wrap">
+								<div class="col">
+									<div class="box title">
+										<div class="text-center">
+											<div class="text-inner">
+												<div class="text-last">
+													<h2>Top<br />
+													SELLER<br />
+													4
+													</h2>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe4</h3>
+											<div class="hold-img"><img src="images/topseller-img01.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col large">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe4</h3>
+											<div class="hold-img"><img src="images/topseller-img-large.jpg" alt="image" /></div>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe4</h3>
+											<div class="hold-img"><img src="images/topseller-img02.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe4</h3>
+											<div class="hold-img"><img src="images/topseller-img03.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<input class="product-slider" name="product-slider" id="tab-5" type="radio">
+						<div class="panel panel-default">		
+							<div class="topseller-wrap">
+								<div class="col">
+									<div class="box title">
+										<div class="text-center">
+											<div class="text-inner">
+												<div class="text-last">
+													<h2>Top<br />
+													SELLER<br />
+													5
+													</h2>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe5</h3>
+											<div class="hold-img"><img src="images/topseller-img01.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col large">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe5</h3>
+											<div class="hold-img"><img src="images/topseller-img-large.jpg" alt="image" /></div>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+								<div class="col">
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe5</h3>
+											<div class="hold-img"><img src="images/topseller-img02.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+									<div class="box">
+										<a class="topseller-link" href="#">
+											<h3>Puma Evospeed 5 TT Jr Jungen Kunstrasen Schuhe Kinder Schuhe Turf Fußballschuhe5</h3>
+											<div class="hold-img"><img src="images/topseller-img03.jpg" alt="image" /></div>
+											<strong class="price-old">EUR 18,17</strong>
+											<strong class="price">EUR 18,17</strong>
+											<span class="incl">inkl. MwSt. zzgl. Versand</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<nav id="tabnav">
+							<div class="tab-holder">
+								<ul class="elem">
+									<li><a href="#"><label for="tab-1">1</label></a></li>
+									<li><a href="#"><label for="tab-2">2</label></a></li>
+									<li><a href="#"><label for="tab-3">3</label></a></li>
+									<li><a href="#"><label for="tab-4">4</label></a></li>
+									<li><a href="#"><label for="tab-5">5</label></a></li>
+								</ul>
+							</div>
+							<label for="open-tab" class="tabs-overlay"></label>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="regarding-box">
+			<img src="images/regarding-img.jpg" alt="image" />
+			<div class="container">
+				<div class="col-hold">
+					<div class="col">&nbsp;</div>					<div class="col">
+						<div class="title-hold">
+							<h2>Über uns</h2>
+						</div>
+						<h3>Herzlich Willkommen bei BLACK LABEL Fashion!</h3>
+						<p>In unserem Shop finden Sie stylische Sport- und Streetwear sowie Accessoires</p>
+						<p>Wir legen Wert auf hohe Qualität, Expressversand und hohem Service. Sollten Sie trotz allem einmal etwas zu beanstanden haben, verschaffen Sie Ihrem Ärger nicht gleich Luft, indem Sie uns eine schlechte Bewertung geben. Sprechen Sie uns stattdessen einfach an. Gemeinsam werden wir eine Lösung finden. Wir möchten uns Ihr Vertrauen verdienen und Sie als zufriedenen Kunden gewinnen.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="faq-box">
+				<div class="faq-title">
+					<h2>FAQ</h2>
+				</div>
+				<div class="area-title">
+					<h2>Bereich</h2>
+				</div>
+				<div class="hold-tabs">
+					<input class="product-slider" checked="checked" name="product_1" id="tab-1-faq" type="radio">
+					<input class="product-slider" name="product_1" id="tab-2-faq" type="radio">
+					<div class="tab-menu">
+						<nav id="tabnav">
+							<ul class="elem">
+								<li><a href="#"><label for="tab-1-faq">Fragen zum Erlebnis</label></a></li>
+								<li><a href="#"><label for="tab-2-faq">Allgemeine Fragen zum Gutscheinkauf</label></a></li>
+							</ul>
+						</nav>
+						<input class="product-slider" checked="checked" name="product-slider" id="tab-1-faq" type="radio">
+						<div class="panel panel-default">		
+							<div class="accordion">
+						        <ul>
+						          	<li>
+							            <input type="checkbox" id="check-1">
+							            <label for="check-1" class="box-accordion">Haftungsgarantie</label>
+							            <div class="accordion-text">
+							                <div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste</p>
+								            </div>
+							            </div>
+							        </li>
+							        <li>
+							            <input type="checkbox" id="check-2">
+							            <label for="check-2" class="box-accordion">Sprunggarantie</label>
+							            <div class="accordion-text">
+							               	<div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste2</p>
+								            </div>
+							            </div>
+							        </li>
+							        <li>
+							            <input type="checkbox" id="check-3">
+							            <label for="check-3" class="box-accordion">Echte übertragbare gutscheine</label>
+							            <div class="accordion-text">
+							            	<div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste3</p>
+								            </div>    
+							            </div>
+						          	</li>
+						           	<li>
+							            <input type="checkbox" id="check-4">
+							            <label for="check-4" class="box-accordion">Alle partner-sprungplätze</label>
+							            <div class="accordion-text">
+							                <div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste4</p>
+								            </div>
+							            </div>
+							        </li>
+							        <li>
+							            <input type="checkbox" id="check-5">
+							            <label for="check-5" class="box-accordion">Professionelle Sprungplätze</label>
+							            <div class="accordion-text">
+							                <div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste5</p>
+								            </div>
+							            </div>
+						          	</li>
+						        </ul>
+						   </div>
+						</div>
+						<input class="product-slider" name="product-slider" id="tab-2-faq" type="radio">  
+						<div class="panel panel-default">		
+							<div class="accordion">
+						        <ul>
+						          	<li>
+							            <input type="checkbox" id="check-1_2">
+							            <label for="check-1_2" class="box-accordion">Haftungsgarantie2</label>
+							            <div class="accordion-text">
+							                <div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste</p>
+								            </div>
+							            </div>
+							        </li>
+							        <li>
+							            <input type="checkbox" id="check-2_2">
+							            <label for="check-2_2" class="box-accordion">Sprunggarantie2</label>
+							            <div class="accordion-text">
+							               	<div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste2</p>
+								            </div>
+							            </div>
+							        </li>
+							        <li>
+							            <input type="checkbox" id="check-3_2">
+							            <label for="check-3_2" class="box-accordion">Echte übertragbare gutscheine2</label>
+							            <div class="accordion-text">
+							            	<div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste3</p>
+								            </div>    
+							            </div>
+						          	</li>
+						           	<li>
+							            <input type="checkbox" id="check-4_2">
+							            <label for="check-4_2" class="box-accordion">Alle partner-sprungplätze2</label>
+							            <div class="accordion-text">
+							                <div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste4</p>
+								            </div>
+							            </div>
+							        </li>
+							        <li>
+							            <input type="checkbox" id="check-5_2">
+							            <label for="check-5_2" class="box-accordion">Professionelle Sprungplätze2</label>
+							            <div class="accordion-text">
+							                <div class="box-text">
+								                <p>Agenturen kommen und gehen - Uns gibt es immer noch! über 15 Jahre Erfahrung im Luftsport. Wir sind die einzige reine Luftsportagentur am Markt, die über Haftungskapital verfügt und ordentlich ins Handelsregister eingetragen ist! Über 60.000 zufriedene Privatkunden und namhafte Aktiengesellschaften und Firmen haben uns in den letzten Jahren vertraut und sind bei uns Kunde: Unsere Referenzliste5</p>
+								            </div>
+							            </div>
+						          	</li>
+						        </ul>
+						   </div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="category-box">
+				<div class="category-row up">
+					<div class="col">
+						<div class="box" style="background-image:url(images/category-img01.jpg); background-color:#f7f7f7;">
+							<a class="category-link" href="#">
+								<div class="results">
+									<strong class="results-number">286</strong>
+									<strong class="results-text">Ergebnisse <br />
+									gefunden</strong>
+								</div>
+								<div class="text-center">									<div class="text-inner">										<div class="text-last">											<div class="title-hold">
+												<strong class="title-category">Frauen</strong>
+											</div>										</div>									</div>								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col">
+						<div class="row-up">
+							<div class="box" style="background-image:url(images/category-img02.jpg); background-color:#f7f7f7;">
+								<a class="category-link" href="#">
+									<div class="results">
+										<strong class="results-number">119</strong>
+										<strong class="results-text">Ergebnisse <br />
+										gefunden</strong>
+									</div>
+									<div class="text-center">										<div class="text-inner">											<div class="text-last">												<div class="title-hold">
+													<strong class="title-category">kinder</strong>
+												</div>											</div>										</div>									</div>
+								</a>
+							</div>
+						</div>
+						<div class="row-down">
+							<div class="box" style="background-image:url(images/category-img03.jpg);">
+								<a class="category-link" href="#">
+									<div class="results">
+										<strong class="results-number">132</strong>
+										<strong class="results-text">Ergebnisse <br />
+										gefunden</strong>
+									</div>
+									<div class="text-center">										<div class="text-inner">											<div class="text-last">												<div class="title-hold">
+													<strong class="title-category">Männer</strong>
+												</div>											</div>										</div>									</div>
+								</a>
+							</div>
+							<div class="box">
+								<a class="category-link" href="#">
+									<div class="title-hold">
+										<strong class="title-category">SALE</strong>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="category-row down">
+					<div class="col">
+						<div class="box" style="background-image:url(images/category-img04.jpg);">
+							<a class="category-link" href="#">
+								<div class="results">
+									<strong class="results-number">132</strong>
+									<strong class="results-text">Ergebnisse <br />
+									gefunden</strong>
+								</div>
+								<div class="text-center">									<div class="text-inner">										<div class="text-last">											<div class="title-hold">
+												<strong class="title-category">Accessoirs</strong>
+											</div>										</div>									</div>								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col">
+						<div class="box">
+							<div class="text-center">								<div class="text-inner">									<div class="text-last">										<h2>Top<br />
+										Kat<br />
+										ego<br />
+										rien</h2>									</div>								</div>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </section>
+	<footer id="footer" class="wrapper">
+		<div class="container">
+			<div class="foot-wrap">
+				<div class="info-foot">
+					<div class="box">
+						<strong class="logo">
+							<a target="_blank" href="#">
+								<img src="images/logo.png" alt="image" />
+							</a>
+						</strong>
+					</div>					<div class="box">
+						<ul>
+							<li><a href="#">Impressum</a></li>
+							<li><a href="#">Über uns</a></li>
+							<li><a href="#">Zahlung & Versand</a></li>
+						</ul>
+					</div>					<div class="box">
+						<ul>
+							<li><a href="#">Rücksendungen</a></li>
+							<li><a href="#">Widerrufsrecht</a></li>
+						</ul>
+					</div>					<div class="box">
+						<span class="company">© 2018  Black Label Retail GmbH</span>
+					</div>
+				</div>
+				<div class="pay-foot">
+					<ul class="pay-info-list">
+						<li>Sicherer Versand durch DHL mit Paketverfolgung</li>
+						<li>Kostenloser Versand innerhalb Deutschland (auf ausgewählte Artikel)</li>
+						<li>Sichere Bezahlmethoden: Paypal, Überweisung</li>
+					</ul>
+					<ul class="pay-list">
+						<li><img src="images/dhl.jpg" alt="image" /></li>						<li><img src="images/paypal.jpg" alt="image" /></li>						<li><img src="images/vorcasse.jpg" alt="image" /></li>
+					</ul>
+				</div>
+			</div>
+			<div id="threendy_copyright"><a target="_blank" href="https://stores.ebay.de/threendy" rel="nofollow" title="Mobile & individuelle eBay Shop und eBay Auktionsvorlagen Template Design von Threendy" target="_blank">eBay Shop & eBay Auktionsvorlagen von Threendy </a></div>
+		</div>
+	</footer>
+</body>
+</html>
